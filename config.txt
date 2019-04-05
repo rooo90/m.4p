@@ -1,6 +1,6 @@
-token= NTYzNzQyOTI5NTU5MDkzMjY5.XKdwig.lGp8wN99FMWEfHRVKuvTOBp-wnw
+token= NTYzNzU3MjU0NjI5Nzg1NjAx.XKd95g.TTf6vTaZYzB02LX8FiOnSKBr_fY
 owner= 526947416658935810 
-prefix= 4
-game= 4help | War
+prefix= 5
+game= 5help | War
 stayinchannel=true
 songinstatus=false
