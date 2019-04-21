@@ -1,6 +1,6 @@
 token= NTYzNzU3MjU0NjI5Nzg1NjAx.XKd95g.TTf6vTaZYzB02LX8FiOnSKBr_fY
 owner= 526947416658935810 
-prefix= 5
-game= 5help | War
+prefix= 8
+game= On : anas alharbi
 stayinchannel=true
 songinstatus=false
